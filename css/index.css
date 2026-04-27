@@ -68,6 +68,12 @@ header ul li a:hover {
     flex-direction: column;
 }
 
+.dropdown {
+    position: relative;
+    text-align: center;
+}
+
+
 .dropdown:hover .submenu {
     display: flex;
 }
