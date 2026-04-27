@@ -211,7 +211,7 @@ main {
 .form-field input:focus,
 .form-field textarea:focus {
     border-color: #196ba3;
-    background: #1e2a35;
+    background: #0d3a6e;
 }
 
 .form-field textarea {
